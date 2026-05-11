@@ -1,1 +1,1 @@
-# my-scrummy-project2
+# my-scrummy-project
